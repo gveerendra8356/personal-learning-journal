@@ -13,3 +13,8 @@ Clone the repository, edit README.md locally, inspect git diff, stage with git a
 
 ## Collaboration update
 Pull the latest main branch before starting a new learning task.
+
+## Login exercise
+`login.py` contains `login(username, password, users)`, which returns a Boolean after comparing a derived password hash with a stored hash. `users` maps a username to `(salt, hash)`; generate a unique random salt for each real record. This in-memory example has no sessions, persistence, or rate limiting.
+
+Run the four tests with `python -B -m unittest -v`. Test credentials are fictional fixtures.
