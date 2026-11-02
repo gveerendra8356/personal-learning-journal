@@ -10,3 +10,6 @@ A personal project for recording Python practice, Git commands, and daily learni
 
 ## Version control workflow
 Clone the repository, edit README.md locally, inspect git diff, stage with git add, commit with a meaningful message, and push to main.
+
+## Collaboration update
+Pull the latest main branch before starting a new learning task.
