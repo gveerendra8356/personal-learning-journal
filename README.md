@@ -5,7 +5,7 @@ A personal project for recording Python practice, Git commands, and daily learni
 
 ## Goals
 - Practice Python with small examples.
-- Track changes with clear Git commits.
+- Track changes with clear Git commits and meaningful commit messages.
 - Keep learning notes organized.
 
 ## Version control workflow
